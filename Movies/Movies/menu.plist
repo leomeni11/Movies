@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Top Free</string>
+		<key>image</key>
+		<string>icon_menu_temp</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Top Paid</string>
+		<key>image</key>
+		<string>icon_menu_temp</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Staff Pick</string>
+		<key>image</key>
+		<string>icon_menu_temp</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>New Apps</string>
+		<key>image</key>
+		<string>icon_menu_temp</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>On Sale</string>
+		<key>image</key>
+		<string>icon_menu_temp</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>All Apps</string>
+		<key>image</key>
+		<string>icon_menu_temp</string>
+	</dict>
+</array>
+</plist>

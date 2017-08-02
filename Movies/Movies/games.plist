@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>picture</key>
+		<string>game1</string>
+		<key>title</key>
+		<string>Angry Bird</string>
+		<key>subtitle</key>
+		<string>Angry Birds is a puzzle video game developed by Rovio Entertainment. In the game, players use a slingshot to launch birds at pigs stationed in or around various structures with the goal of destroying all the pigs on the playing field.</string>
+	</dict>
+	<dict>
+		<key>picture</key>
+		<string>game2</string>
+		<key>title</key>
+		<string>Clash of Clan</string>
+		<key>subtitle</key>
+		<string>Lead your clan to victory! Clash of Clans is an epic combat strategy game. Build your village, train your troops and battle with thousands of enemy</string>
+	</dict>
+	<dict>
+		<key>picture</key>
+		<string>game3</string>
+		<key>title</key>
+		<string>Candy Crush </string>
+		<key>subtitle</key>
+		<string>Switch and match your way through more than 400 levels in this delicious and addictive puzzle adventure.Ain&apos;t it the sweetest game ever?</string>
+	</dict>
+	<dict>
+		<key>picture</key>
+		<string>dragon</string>
+		<key>title</key>
+		<string>Dragon City</string>
+		<key>subtitle</key>
+		<string>Build a magical world in Dragon City! Clain hundreds of dragons</string>
+	</dict>
+	<dict>
+		<key>picture</key>
+		<string>poker </string>
+		<key>title</key>
+		<string>Zynga Poker</string>
+		<key>subtitle</key>
+		<string>The world&apos;s largest online poker room</string>
+	</dict>
+	<dict>
+		<key>picture</key>
+		<string>pet</string>
+		<key>title</key>
+		<string>Rescue Pet Saga</string>
+		<key>subtitle</key>
+		<string>Pet Rescue Saga is the new hit puzzle game from the makers of Candy Crush Saga</string>
+	</dict>
+</array>
+</plist>

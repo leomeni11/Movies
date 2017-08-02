@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>color</key>
+		<string>252|135|133</string>
+		<key>image</key>
+		<string>burger</string>
+		<key>title</key>
+		<string>Hello Food!</string>
+		<key>subtitle</key>
+		<string>The easiest way to order food from your favourite restaurant!</string>
+	</dict>
+	<dict>
+		<key>color</key>
+		<string>45|181|168</string>
+		<key>image</key>
+		<string>twotickets</string>
+		<key>title</key>
+		<string>Movie Tickets</string>
+		<key>subtitle</key>
+		<string> Book movie tickets for your family and friends!</string>
+	</dict>
+	<dict>
+		<key>color</key>
+		<string>26|155|252</string>
+		<key>image</key>
+		<string>discount</string>
+		<key>title</key>
+		<string>Great Discounts</string>
+		<key>subtitle</key>
+		<string>Best discounts on every single service we offer!</string>
+	</dict>
+</array>
+</plist>
